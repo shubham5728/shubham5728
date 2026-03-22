@@ -1,6 +1,6 @@
 # Hi there, I'm Shubham Kumawat! 👋
 
-[![Linkedin: Shubham Kumawat](https://img.shields.io/badge/-Shubham%20Kumawat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-kumawat-aa6a66291/)](https://www.linkedin.com/in/shubham-kumawat-aa6a66291/) [![GitHub followers](https://img.shields.io/github/followers/shubhamkumawat789?label=Follow&style=social)](https://github.com/shubhamkumawat789)
+[![Linkedin: Shubham Kumawat](https://img.shields.io/badge/-Shubham%20Kumawat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-kumawat-aa6a66291/)](https://www.linkedin.com/in/shubham-kumawat-aa6a66291/) [![GitHub followers](https://img.shields.io/github/followers/shubham5728?label=Follow&style=social)](https://github.com/shubham5728)
 
 ## 🚀 Aspiring Data Scientist | AI Engineer | Big Data Enthusiast
 
