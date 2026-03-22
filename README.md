@@ -47,7 +47,7 @@ A machine learning project to predict the successful landing of Falcon 9 rocket 
 ### 📫 Connect with Me
 
 - 💼 LinkedIn: [shubham-kumawat](https://www.linkedin.com/in/shubham-kumawat-aa6a66291/)
-- 💻 GitHub: [shubhamkumawat789](https://github.com/shubhamkumawat789)
+- 💻 GitHub: [shubhamkumawat789](https://github.com/shubam5728)
 
 <!--
 **shubhamkumawat789/shubhamkumawat789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
